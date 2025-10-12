@@ -8,7 +8,6 @@ Notice that you may not slant the container.
 
 <img width="801" height="383" alt="image" src="https://github.com/user-attachments/assets/52ea1c6c-2873-405e-9a55-3fbd825d28b2" />
 
-
 Example 1:
 
 Input: height = [1,8,6,2,5,4,8,3,7]
