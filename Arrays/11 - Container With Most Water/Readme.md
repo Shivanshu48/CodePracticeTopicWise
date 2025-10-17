@@ -3,7 +3,6 @@ You are given an integer array height of length n. There are n vertical lines dr
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
 Return the maximum amount of water a container can store.
-
 Notice that you may not slant the container.
 
 <img width="801" height="383" alt="image" src="https://github.com/user-attachments/assets/52ea1c6c-2873-405e-9a55-3fbd825d28b2" />
